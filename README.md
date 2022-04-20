@@ -1,2 +1,5 @@
 # Quick Projects
-These projects are my playground for training or just for testing purposes
+
+This repo is my playground for training or just for testing purposes
+
+- No responsive design for mobiles or tablets
